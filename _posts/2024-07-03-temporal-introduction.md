@@ -1,12 +1,7 @@
-Sure! Here's the content converted into a README file for GitHub:
-
----
-
 # Temporal.io Workflow Automation for Banking with Java SDK
 
-Welcome to the repo for automating banking workflows using Temporal.io and Java SDK. This guide will help you set up and run a sample workflow for loan approval in an Indian bank. Grab a chai, sit back, and let's get started!
+Welcome to the repo for automating banking workflows using Temporal.io and Java SDK. This guide will help you set up and run a sample workflow. Grab a chai, sit back, and let's get started!
 
-![Cool Temporal.io Logo](path/to/image1.png)
 
 ## Why Temporal.io?
 
@@ -48,8 +43,6 @@ Navigate to your project directory:
 ```bash
 cd temporal-workflow
 ```
-
-![Java Setup](path/to/image2.png)
 
 ## Define Your Workflow
 
@@ -166,7 +159,6 @@ public class LoanActivitiesImpl implements LoanActivities {
 }
 ```
 
-![Workflow Implementation](path/to/image3.png)
 
 ## Run Your Workflow
 
@@ -204,14 +196,12 @@ public class LoanApprovalStarter {
 
 Run your `LoanApprovalStarter` class and watch the magic unfold!
 
-![Running the Workflow](path/to/image4.png)
 
 ## Conclusion
 
-With Temporal.io and the Java SDK, you've automated a loan approval process in an Indian bank. Temporal.io simplifies your asynchronous processes and ensures they're reliable and scalable.
+With Temporal.io and the Java SDK, you've automated a loan approval process. Temporal.io simplifies your asynchronous processes and ensures they're reliable and scalable.
 
 So, next time you're sipping your chai, you can relax knowing that Temporal.io has got your back. Until next time, happy coding!
 
-![Happy Coding](path/to/image5.png)
 
 ---
