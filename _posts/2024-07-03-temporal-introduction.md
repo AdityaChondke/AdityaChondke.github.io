@@ -1,6 +1,6 @@
 # Temporal.io Workflow Automation for Banking with Java SDK
 
-Welcome to the repo for automating banking workflows using Temporal.io and Java SDK. This guide will help you set up and run a sample workflow. Grab a chai, sit back, and let's get started!
+Welcome to the blog for automating banking workflows using Temporal.io and Java SDK. This guide will help you set up and run a sample workflow. Grab a chai, sit back, and let's get started!
 
 
 ## Why Temporal.io?
